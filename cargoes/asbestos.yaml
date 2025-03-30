@@ -1,0 +1,17 @@
+abbreviation: AB
+available: false
+classes: 288
+colour: 29
+id: 5
+label: ASBS
+longName: asbestos
+name: Asbestos
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 1645
+sprite:
+  filename: cargoes/asbestos.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 6
